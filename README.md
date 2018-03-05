@@ -1,7 +1,7 @@
 # vueproject
 
 > A Vue.js project
-预览： https://majianyang666.github.io/VueShopApp/index.html
+
 ## 项目介绍
 
 这是一个基于Vue、Vue-router的电商移动端H5项目。
